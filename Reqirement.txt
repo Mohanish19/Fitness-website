@@ -1,0 +1,5 @@
+Azure Static app services
+Azure app services 
+Azure qna maker
+Azure bot Services
+Azure web app bot
